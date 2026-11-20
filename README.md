@@ -24,7 +24,7 @@
 
 Hey there! By day, I spend my time turning messy business ideas into real digital products across **FinTech, HealthTech, and InsurTech**. By night (and weekends), I’m usually down a rabbit hole learning a new framework, testing local AI models on my own hardware, or building tools just to see if I can make them work.
 
-I don't believe in sticking to just one lane, whether it's macroeconomic data pipelines, Web3 settlement concepts, or tinkering with Node.js and Python, if it's interesting, I want to understand how it ticks. Althought i am not a full fledged developer,  curiosity sometiems gets the best of me. 
+I don't believe in sticking to just one lane, whether it's macroeconomic data pipelines, Web3 settlement concepts, or tinkering with Node.js and Python, if it's interesting, I want to understand how it ticks. Althought i am not a full fledged developer,  curiosity sometimes gets the best of me. 
 
 ### ⚡ Who Am I?
 I bridge the gap between **high-level product strategy**, **business intelligence**, and **hands-on technical execution**. With 5+ years of experience as a Business Analyst and Senior Product Development Lead, I specialize in taking complex platforms from zero to one—spanning **FinTech, InsurTech, HealthTech, and AI-driven market intelligence**.
