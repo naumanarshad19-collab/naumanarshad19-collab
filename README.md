@@ -70,15 +70,3 @@ I bridge the gap between **high-level product strategy**, **business intelligenc
 
 ---
 
-### 📈 Live GitHub Metrics
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=naumanarshad19-collab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naumanarshad19-collab&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <i>"Turning complex market problems into clean, scalable digital products."</i>
-</div>
